@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # FormCreator
+=======
+# formCreator
+![Картинка проекта](https://github.com/Yuraas97/formCreator/blob/master/Images/5.jpg) 
+# Техническое задание
+>>>>>>> 6eeb3cf40b7d60f8c9fd83953966bd1948b0300a
 
 ![Background image](Images/back.png)
 
